@@ -1,8 +1,8 @@
 # The Secret Shop - E-commerce UI Project
 
 ## Student Information
-- Name: [Your Name]
-- ID: [Your Student ID]
+- Name: Ibaro Shaun A. Relameda
+- ID: 2024-26279
 
 ## Project Description
 The Secret Shop is a Shrek-themed e-commerce store that offers unique and fun merchandise for Shrek fans. The store features a collection of custom-designed products including t-shirts, footwear, accessories, and smart devices, all themed around the beloved character Shrek.
