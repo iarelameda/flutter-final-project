@@ -108,9 +108,6 @@ The app features a Shrek-inspired design language with:
 - Adaptive text sizing
 - Screen size-aware layouts
 
-## Screenshots
-[Add your application screenshots here]
-
 ## Installation and Setup
 1. Clone the repository
 2. Run `flutter pub get`
